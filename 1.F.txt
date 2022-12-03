@@ -1,1 +1,5 @@
-Classroom_id on classroom table should sorted from smallest.
+1. CLASSROOM TABEL
+	Classroom_id on classroom table should sorted from smallest.
+
+2. STUDENT TABEL
+	name on student table should change to nama or name_student
